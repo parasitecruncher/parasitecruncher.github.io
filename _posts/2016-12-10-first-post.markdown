@@ -10,7 +10,7 @@ Hello
 
   This is my first blog post on GitHub.
 
-What I'm aiming to do here on is write articles about my projects and hacks that I've learned over the many years(I'm 20 as of 2016).
+What I'm aiming to do here, is write articles about my projects and hacks that I've learned over the many years(I'm 20 as of 2016).
 
 Hopefully I'll write DIYs, How-Tos and many other things that I'm working on.
 
