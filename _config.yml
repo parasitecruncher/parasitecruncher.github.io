@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Prashanth Ambati
+email: prashanth8314@gmail.com
+description:  Howdy!
+              This is my awesome blog that I hope I will keep writing to no matter people see it or not. This is for my reference
+              and as of this moment, it's not for the general public, so apologies if the content aren't the best.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "prashanthambati.me" # the base hostname & protocol for your site
+linkedin:    "prashanthambati"
+
+github_username:      "parasitecruncher"
+
+google_plus_username: prashanth8314
+facebook_username:    prashanthrockit
+
+# Build settings
+markdown: kramdown

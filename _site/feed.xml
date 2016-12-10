@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prashanth Ambati</title>
+    <description>Howdy! This is my awesome blog that I hope I will keep writing to no matter people see it or not. This is for my reference and as of this moment, it's not for the general public, so apologies if the content aren't the best.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 10 Dec 2016 23:40:10 +0530</pubDate>
+    <lastBuildDate>Sat, 10 Dec 2016 23:40:10 +0530</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>My First Blog!</title>
+        <description>&lt;p&gt;Hello&lt;/p&gt;
+
+&lt;p&gt;This is my first blog post on GitHub.&lt;/p&gt;
+
+&lt;p&gt;What I’m aiming to do here on is write articles about my projects and hacks that I’ve learned over the many years(I’m 20 as of 2016).&lt;/p&gt;
+
+&lt;p&gt;Hopefully I’ll write DIYs, How-Tos and many other things that I’m working on.&lt;/p&gt;
+
+&lt;p&gt;The reason I’m doing this is to document everything I’m working on and re-evaluate what I’ve done to get a better understanding.&lt;/p&gt;
+
+&lt;p&gt;Check out my &lt;a href=&quot;http://github.com/parasitecruuncher&quot;&gt;GitHub&lt;/a&gt; for my project repos.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Dec 2016 21:18:45 +0530</pubDate>
+        <link>http://localhost:4000/jekyll/update/2016/12/10/first-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/12/10/first-post.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
