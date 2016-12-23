@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Blog!"
 date:   2016-12-10 21:18:45 +0530
-categories: jekyll update
+categories: intro
 ---
 
 Hello
