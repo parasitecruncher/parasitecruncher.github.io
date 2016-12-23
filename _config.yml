@@ -23,3 +23,6 @@ facebook_username:    prashanthrockit
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
